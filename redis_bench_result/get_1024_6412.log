@@ -1,0 +1,47 @@
+2023-11-21 23:22:57
+GET: 0.00GET: 302916.34GET: 274459.09GET: 247531.92GET: 228047.91GET: 219403.03GET: 211411.84GET: 205836.84GET: 200954.56GET: 198718.16GET: 196410.70GET: 195664.36GET: 192782.95GET: 191906.58GET: 190904.11GET: 189996.81GET: 189418.58GET: 187768.69GET: 187029.52GET: 185125.55GET: 184551.34GET: 183802.12GET: 183118.05GET: 182934.17GET: 182168.80GET: 181462.05GET: 179989.55GET: 179220.36GET: 178523.19GET: 177590.73GET: 177400.30GET: 177168.50GET: 176603.47GET: 176162.77GET: 175939.81GET: 176014.62GET: 175694.45GET: 175168.62GET: 174605.66GET: 174310.14GET: 174144.50GET: 174107.05GET: 174303.61GET: 174081.25GET: 174047.06GET: 173636.31GET: 173628.62GET: 173556.61GET: 173516.23GET: 173419.44GET: 173329.08GET: 173281.73GET: 173249.73GET: 173284.08GET: 173058.45GET: 172848.02GET: 172985.88GET: 172961.30GET: 172831.20GET: 172693.58GET: 172679.91GET: 172431.86GET: 172299.59GET: 172302.47GET: 172199.83GET: 172239.55GET: 172043.11GET: 172109.28GET: 171981.19GET: 172063.48GET: 172158.05GET: 172091.42GET: 172178.53GET: 172165.58GET: 172122.28GET: 172048.61GET: 171927.64GET: 171982.56GET: 171930.31GET: 172012.14GET: 172159.09GET: 172098.89GET: 171987.33GET: 171956.66GET: 172030.66GET: 172285.14GET: 172381.84GET: 172045.56GET: 171994.19GET: 172096.28GET: 172448.73GET: 173098.12====== GET ======
+  4000000 requests completed in 23.00 seconds
+  32 parallel clients
+  1024 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.16% <= 0.2 milliseconds
+1.60% <= 0.3 milliseconds
+5.63% <= 0.4 milliseconds
+10.10% <= 0.5 milliseconds
+14.89% <= 0.6 milliseconds
+20.90% <= 0.7 milliseconds
+28.29% <= 0.8 milliseconds
+36.94% <= 0.9 milliseconds
+45.74% <= 1.0 milliseconds
+53.79% <= 1.1 milliseconds
+60.53% <= 1.2 milliseconds
+66.03% <= 1.3 milliseconds
+70.46% <= 1.4 milliseconds
+74.26% <= 1.5 milliseconds
+77.57% <= 1.6 milliseconds
+80.42% <= 1.7 milliseconds
+82.84% <= 1.8 milliseconds
+84.88% <= 1.9 milliseconds
+86.63% <= 2 milliseconds
+95.34% <= 3 milliseconds
+97.90% <= 4 milliseconds
+98.95% <= 5 milliseconds
+99.41% <= 6 milliseconds
+99.67% <= 7 milliseconds
+99.84% <= 8 milliseconds
+99.93% <= 9 milliseconds
+99.98% <= 10 milliseconds
+99.98% <= 11 milliseconds
+99.99% <= 12 milliseconds
+99.99% <= 13 milliseconds
+100.00% <= 14 milliseconds
+100.00% <= 15 milliseconds
+100.00% <= 15 milliseconds
+173928.17 requests per second
+
+

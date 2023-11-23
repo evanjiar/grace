@@ -1,0 +1,84 @@
+RocksDB:    version 8.9.0
+Date:       Wed Nov 22 03:31:03 2023
+CPU:        0 * 
+CPUCache:   
+... finished 100 ops                              ... finished 200 ops                              ... finished 300 ops                              ... finished 400 ops                              ... finished 500 ops                              ... finished 600 ops                              ... finished 700 ops                              ... finished 800 ops                              ... finished 900 ops                              ... finished 1000 ops                              ... finished 1500 ops                              ... finished 2000 ops                              ... finished 2500 ops                              ... finished 3000 ops                              ... finished 3500 ops                              ... finished 4000 ops                              ... finished 4500 ops                              ... finished 5000 ops                              ... finished 6000 ops                              ... finished 7000 ops                              ... finished 8000 ops                              ... finished 9000 ops                              ... finished 10000 ops                              ... finished 15000 ops                              ... finished 20000 ops                              ... finished 25000 ops                              ... finished 30000 ops                              ... finished 35000 ops                              ... finished 40000 ops                              ... finished 45000 ops                              ... finished 50000 ops                              ... finished 60000 ops                              ... finished 70000 ops                              ... finished 80000 ops                              ... finished 90000 ops                              ... finished 100000 ops                              ... finished 150000 ops                              ... finished 200000 ops                              ... finished 250000 ops                              ... finished 300000 ops                              ... finished 350000 ops                              ... finished 400000 ops                              ... finished 450000 ops                              ... finished 500000 ops                              ... finished 600000 ops                              ... finished 700000 ops                              ... finished 800000 ops                              ... finished 900000 ops                              ... finished 1000000 ops                              ... finished 1100000 ops                              ... finished 1200000 ops                              ... finished 1300000 ops                              ... finished 1400000 ops                              ... finished 1500000 ops                              ... finished 1600000 ops                              ... finished 1700000 ops                              ... finished 1800000 ops                              ... finished 1900000 ops                              ... finished 2000000 ops                              ... finished 2100000 ops                              ... finished 2200000 ops                              ... finished 2300000 ops                              ... finished 2400000 ops                              ... finished 2500000 ops                              ... finished 2600000 ops                              ... finished 2700000 ops                              ... finished 2800000 ops                              ... finished 2900000 ops                              ... finished 3000000 ops                              ... finished 3100000 ops                              ... finished 3200000 ops                              ... finished 3300000 ops                              ... finished 3400000 ops                              ... finished 3500000 ops                              ... finished 3600000 ops                              ... finished 3700000 ops                              ... finished 3800000 ops                              ... finished 3900000 ops                              ... finished 4000000 ops                              ... finished 4100000 ops                              ... finished 4200000 ops                              ... finished 4300000 ops                              ... finished 4400000 ops                              ... finished 4500000 ops                              ... finished 4600000 ops                              ... finished 4700000 ops                              ... finished 4800000 ops                              ... finished 4900000 ops                              ... finished 5000000 ops                              ... finished 5100000 ops                              ... finished 5200000 ops                              ... finished 5300000 ops                              ... finished 5400000 ops                              ... finished 5500000 ops                              ... finished 5600000 ops                              ... finished 5700000 ops                              ... finished 5800000 ops                              ... finished 5900000 ops                              ... finished 6000000 ops                              ... finished 6100000 ops                              ... finished 6200000 ops                              ... finished 6300000 ops                              ... finished 6400000 ops                              ... finished 6500000 ops                              ... finished 6600000 ops                              ... finished 6700000 ops                              ... finished 6800000 ops                              ... finished 6900000 ops                              ... finished 7000000 ops                              ... finished 7100000 ops                              ... finished 7200000 ops                              ... finished 7300000 ops                              ... finished 7400000 ops                              ... finished 7500000 ops                              ... finished 7600000 ops                              ... finished 7700000 ops                              ... finished 7800000 ops                              ... finished 7900000 ops                              ... finished 8000000 ops                              ... finished 8100000 ops                              ... finished 8200000 ops                              ... finished 8300000 ops                              ... finished 8400000 ops                              ... finished 8500000 ops                              ... finished 8600000 ops                              ... finished 8700000 ops                              ... finished 8800000 ops                              ... finished 8900000 ops                              ... finished 9000000 ops                              ... finished 9100000 ops                              ... finished 9200000 ops                              ... finished 9300000 ops                              ... finished 9400000 ops                              ... finished 9500000 ops                              ... finished 9600000 ops                              ... finished 9700000 ops                              ... finished 9800000 ops                              ... finished 9900000 ops                              ... finished 10000000 ops                              Set seed to 1700652663910009 because --seed was 0
+Initializing RocksDB Options from the specified file
+Initializing RocksDB Options from command-line flags
+Integrated BlobDB: blob cache disabled
+Keys:       16 bytes each (+ 0 bytes user-defined timestamp)
+Values:     65536 bytes each (32768 bytes after compression)
+Entries:    10000000
+Prefix:    0 bytes
+Keys per prefix:    0
+RawSize:    625152.6 MB (estimated)
+FileSize:   312652.6 MB (estimated)
+Write rate: 0 bytes/second
+Read rate: 0 ops/second
+Compression: NoCompression
+Compression sampling rate: 0
+Memtablerep: SkipListFactory
+Perf Level: 1
+------------------------------------------------
+Initializing RocksDB Options from the specified file
+Initializing RocksDB Options from command-line flags
+Integrated BlobDB: blob cache disabled
+DB path: [/ks_grace_data/bench_test]
+fillrandom   :    1275.186 micros/op 784 ops/sec 12752.104 seconds 10000000 operations;   49.0 MB/s
+
+
+** Compaction Stats [default] **
+Level    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop Rblob(GB) Wblob(GB)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  L0      2/2    1.87 GB   0.0      0.0     0.0      0.0     608.2    608.2       0.0   1.0      0.0    108.6   5736.66            203.58       649    8.839       0      0       0.0       0.0
+  L1     10/10  528.83 MB   0.0   1031.4   606.3    425.1    1028.0    603.0       0.0   1.7    110.4    110.0   9569.99            437.47       242   39.545     16M    54K       0.0       0.0
+  L2     97/0    4.97 GB   1.0    865.3   452.1    413.2     860.9    447.7     150.3   1.9     18.7     18.6  47444.90            393.07      6316    7.512     14M    72K       0.0       0.0
+  L3    931/31  53.19 GB   1.0   2391.7   554.5   1837.1    2348.6    511.4      38.5   4.2     19.4     19.0 126269.39           1048.03      9938   12.706     39M   705K       0.0       0.0
+  L4   6610/119 359.62 GB   0.7   1260.2   411.4    848.8    1122.9    274.1      85.6   2.7     20.3     18.1  63437.58            552.51      7103    8.931     20M  2246K       0.0       0.0
+ Sum   7650/162 420.18 GB   0.0   5548.5  2024.3   3524.2    5968.5   2444.4     274.4   9.8     22.5     24.2 252458.53           2634.65     24248   10.412     90M  3078K       0.0       0.0
+ Int      0/0    0.00 KB   0.0     60.3    18.7     41.6      61.9     20.3       0.8  13.2     18.6     19.1   3317.17             29.41       261   12.709    986K    49K       0.0       0.0
+
+** Compaction Stats [default] **
+Priority    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop Rblob(GB) Wblob(GB)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Low      0/0    0.00 KB   0.0   5548.5  2024.3   3524.2    5360.4   1836.2       0.0   0.0     23.0     22.2 246721.86           2431.07     23599   10.455     90M  3078K       0.0       0.0
+High      0/0    0.00 KB   0.0      0.0     0.0      0.0     608.2    608.2       0.0   0.0      0.0    108.6   5736.66            203.58       649    8.839       0      0       0.0       0.0
+
+Blob file count: 0, total size: 0.0 GB, garbage size: 0.0 GB, space amp: 0.0
+
+Uptime(secs): 12752.1 total, 149.1 interval
+Flush(GB): cumulative 608.170, interval 4.686
+AddFile(GB): cumulative 0.000, interval 0.000
+AddFile(Total Files): cumulative 0, interval 0
+AddFile(L0 Files): cumulative 0, interval 0
+AddFile(Keys): cumulative 0, interval 0
+Cumulative compaction: 5968.54 GB write, 479.28 MB/s write, 5548.47 GB read, 445.54 MB/s read, 252458.5 seconds
+Interval compaction: 61.92 GB write, 425.25 MB/s write, 60.29 GB read, 414.03 MB/s read, 3317.2 seconds
+Write Stall (count): cf-l0-file-count-limit-delays-with-ongoing-compaction: 1, cf-l0-file-count-limit-stops-with-ongoing-compaction: 0, l0-file-count-limit-delays: 1, l0-file-count-limit-stops: 0, memtable-limit-delays: 1621, memtable-limit-stops: 0, pending-compaction-bytes-delays: 6149, pending-compaction-bytes-stops: 0, total-delays: 7771, total-stops: 0
+interval: 75 total count
+Block cache LRUCache@0xa7d2a0#1055155 capacity: 32.00 MB seed: 233516665 usage: 1.32 MB table_size: 1024 occupancy: 22 collections: 22 last_copies: 0 last_secs: 9.2e-05 secs_since: 149
+Block cache entry stats(count,size,portion): Misc(22,1.32 MB,4.11057%)
+
+** File Read Latency Histogram By Level [default] **
+
+** DB Stats **
+Uptime(secs): 12752.1 total, 149.1 interval
+Cumulative writes: 0 writes, 10M keys, 0 commit groups, 0.0 writes per commit group, ingest: 610.66 GB, 49.04 MB/s
+Cumulative WAL: 0 writes, 0 syncs, 0.00 writes per sync, written: 0.00 GB, 0.00 MB/s
+Cumulative stall: 03:31:12.726 H:M:S, 99.4 percent
+Interval writes: 0 writes, 98K keys, 0 commit groups, 0.0 writes per commit group, ingest: 6184.24 MB, 41.47 MB/s
+Interval WAL: 0 writes, 0 syncs, 0.00 writes per sync, written: 0.00 GB, 0.00 MB/s
+Interval stall: 00:02:28.036 H:M:S, 99.3 percent
+Write Stall (count): write-buffer-manager-limit-stops: 0
+
+
+Level Files Size(MB)
+--------------------
+  0        2     1920
+  1       10      529
+  2       97     5088
+  3      931    54469
+  4     6610   368256
+  5        0        0
+  6        0        0
+
