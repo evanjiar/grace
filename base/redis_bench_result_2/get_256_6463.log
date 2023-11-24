@@ -1,0 +1,37 @@
+2023-11-24 14:59:59
+GET: 0.00GET: 248733.08GET: 231792.42GET: 240490.02GET: 250573.42GET: 251529.97GET: 252365.08GET: 252710.44GET: 252417.80GET: 250384.72GET: 248847.67GET: 246999.64GET: 245992.67GET: 245421.11GET: 246327.34GET: 247232.20GET: 247796.06GET: 247021.41GET: 245010.45GET: 243190.91GET: 242909.83GET: 242815.47GET: 242483.92GET: 242259.09GET: 242025.00GET: 241723.89GET: 241452.09GET: 240660.05GET: 239913.16GET: 239728.59GET: 239549.92GET: 239576.83GET: 239332.08GET: 238618.34GET: 238026.58GET: 237355.27GET: 236615.47GET: 235867.25GET: 235212.28GET: 234428.45GET: 233712.62GET: 233132.38GET: 232584.31GET: 231992.56GET: 231524.45GET: 231068.61GET: 230622.84GET: 230232.81GET: 229851.69GET: 229478.30GET: 229054.55GET: 228813.05GET: 228527.31GET: 228240.88GET: 227991.11GET: 228082.03GET: 228077.14GET: 227854.62GET: 227608.33GET: 227382.33GET: 227241.17GET: 227288.75GET: 227126.31GET: 226968.52GET: 226677.66GET: 226517.34GET: 226340.55GET: 226142.78GET: 225881.19GET: 225739.38GET: 225544.95====== GET ======
+  4000096 requests completed in 17.75 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.2 milliseconds
+0.00% <= 0.3 milliseconds
+0.05% <= 0.4 milliseconds
+9.35% <= 0.5 milliseconds
+67.03% <= 0.6 milliseconds
+97.99% <= 0.7 milliseconds
+99.32% <= 0.8 milliseconds
+99.39% <= 0.9 milliseconds
+99.45% <= 1.0 milliseconds
+99.50% <= 1.1 milliseconds
+99.57% <= 1.2 milliseconds
+99.68% <= 1.3 milliseconds
+99.76% <= 1.4 milliseconds
+99.81% <= 1.5 milliseconds
+99.87% <= 1.6 milliseconds
+99.90% <= 1.7 milliseconds
+99.92% <= 1.8 milliseconds
+99.93% <= 1.9 milliseconds
+99.94% <= 2 milliseconds
+99.97% <= 3 milliseconds
+99.97% <= 4 milliseconds
+99.98% <= 5 milliseconds
+99.99% <= 6 milliseconds
+100.00% <= 6 milliseconds
+225421.02 requests per second
+
+

@@ -1,0 +1,36 @@
+2023-11-24 14:58:46
+GET: -nanGET: 305280.00GET: 275328.00GET: 275765.34GET: 277248.00GET: 279731.19GET: 269290.66GET: 257883.42GET: 247848.00GET: 236849.78GET: 226374.41GET: 219106.91GET: 213786.67GET: 209122.47GET: 207083.42GET: 206389.33GET: 206890.00GET: 207207.53GET: 206106.67GET: 205067.80GET: 202857.59GET: 200409.91GET: 198896.00GET: 195980.52GET: 193241.33GET: 190512.64GET: 187872.00GET: 185812.14GET: 184078.86GET: 182875.59GET: 182137.59GET: 181506.06GET: 180827.00GET: 180188.12GET: 179520.94GET: 178844.34GET: 178683.56GET: 178918.05GET: 179199.16GET: 179275.48GET: 179332.00GET: 179150.83GET: 178624.77GET: 178053.20GET: 177408.00GET: 176511.28GET: 176036.17GET: 176155.23GET: 176744.00GET: 177440.00GET: 178110.72GET: 178767.06GET: 179408.61GET: 180068.83GET: 180756.14GET: 181599.42GET: 182528.00GET: 183392.00GET: 184219.59GET: 185024.55GET: 185844.27GET: 186620.86GET: 187353.81GET: 188118.86GET: 188867.00GET: 189631.50GET: 190354.42GET: 191060.06GET: 191806.12GET: 192702.14GET: 193668.58GET: 194572.62GET: 195524.00GET: 196477.38GET: 197418.38GET: 198339.84GET: 199305.69GET: 200836.58GET: 202696.20====== GET ======
+  4000072 requests completed in 19.63 seconds
+  32 parallel clients
+  128 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.2 milliseconds
+0.02% <= 0.3 milliseconds
+4.92% <= 0.4 milliseconds
+24.24% <= 0.5 milliseconds
+53.63% <= 0.6 milliseconds
+68.97% <= 0.7 milliseconds
+81.10% <= 0.8 milliseconds
+91.52% <= 0.9 milliseconds
+96.60% <= 1.0 milliseconds
+99.12% <= 1.1 milliseconds
+99.64% <= 1.2 milliseconds
+99.76% <= 1.3 milliseconds
+99.85% <= 1.4 milliseconds
+99.90% <= 1.5 milliseconds
+99.93% <= 1.6 milliseconds
+99.96% <= 1.7 milliseconds
+99.96% <= 1.8 milliseconds
+99.97% <= 1.9 milliseconds
+99.97% <= 2 milliseconds
+99.99% <= 3 milliseconds
+99.99% <= 5 milliseconds
+100.00% <= 6 milliseconds
+100.00% <= 6 milliseconds
+203794.17 requests per second
+
+

@@ -1,0 +1,75 @@
+2023-11-24 14:16:04
+GET: 0.00GET: 151043.83GET: 127920.95GET: 127947.09GET: 120715.70GET: 116964.20GET: 110954.91GET: 109114.90GET: 106147.41GET: 107063.30GET: 104918.29GET: 101720.91GET: 101705.55GET: 99016.88GET: 98884.01GET: 99413.67GET: 99173.69GET: 99400.70GET: 99944.30GET: 99049.21GET: 96772.14GET: 95675.45GET: 95966.70GET: 94923.63GET: 93921.01GET: 93528.36GET: 92946.84GET: 92840.37GET: 93054.07GET: 93144.27GET: 93338.64GET: 92840.51GET: 93452.87GET: 93839.88GET: 93893.80GET: 94002.05GET: 93953.06GET: 93788.41GET: 93375.58GET: 93732.16GET: 93669.06GET: 93411.40GET: 93419.92GET: 93542.05GET: 93741.51GET: 93736.25GET: 93501.99GET: 93696.07GET: 94451.42GET: 94718.52GET: 95320.69GET: 95010.63GET: 95546.09GET: 96263.62GET: 96037.81GET: 96016.82GET: 95714.57GET: 96017.91GET: 96332.76GET: 96144.91GET: 96300.43GET: 96491.66GET: 96565.00GET: 96517.23GET: 96702.87GET: 96558.15GET: 96858.78GET: 96694.23GET: 96661.55GET: 97044.25GET: 97567.20GET: 97445.52GET: 97490.53GET: 97609.09GET: 97456.43GET: 97388.61GET: 97765.66GET: 98416.23GET: 98470.41GET: 98697.74GET: 99349.41GET: 99532.23GET: 99803.21GET: 99741.23GET: 99783.04GET: 100282.47GET: 100332.56GET: 100425.43GET: 100443.80GET: 100747.98GET: 101284.20GET: 101304.13GET: 101214.45GET: 101517.45GET: 101643.49GET: 101460.77GET: 101772.46GET: 101898.25GET: 102131.14GET: 102311.02GET: 102662.16GET: 102986.10GET: 103167.70GET: 103196.53GET: 103437.60GET: 103592.68GET: 103760.50GET: 103937.41GET: 103736.58GET: 103775.58GET: 103756.45GET: 103946.27GET: 104138.41GET: 103794.52GET: 103638.54GET: 103857.73GET: 103964.26GET: 104175.83GET: 104363.56GET: 103983.65GET: 103854.59GET: 104066.96GET: 104174.14GET: 104250.53GET: 104243.11GET: 104364.70GET: 104555.24GET: 104672.91GET: 104630.04GET: 104895.21GET: 104987.49GET: 105084.20GET: 104900.55GET: 105013.26GET: 105173.81GET: 105135.37GET: 105286.10GET: 105506.15GET: 105662.43GET: 105828.18GET: 105961.95GET: 106170.30GET: 106512.37GET: 106545.73GET: 107062.39GET: 107507.68GET: 107954.75GET: 108541.28====== GET ======
+  4000072 requests completed in 36.85 seconds
+  32 parallel clients
+  128 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.20% <= 0.2 milliseconds
+4.50% <= 0.3 milliseconds
+9.46% <= 0.4 milliseconds
+14.46% <= 0.5 milliseconds
+19.93% <= 0.6 milliseconds
+25.38% <= 0.7 milliseconds
+30.46% <= 0.8 milliseconds
+34.90% <= 0.9 milliseconds
+38.78% <= 1.0 milliseconds
+42.29% <= 1.1 milliseconds
+45.63% <= 1.2 milliseconds
+48.77% <= 1.3 milliseconds
+51.78% <= 1.4 milliseconds
+54.60% <= 1.5 milliseconds
+57.30% <= 1.6 milliseconds
+59.85% <= 1.7 milliseconds
+62.27% <= 1.8 milliseconds
+64.49% <= 1.9 milliseconds
+66.53% <= 2 milliseconds
+81.06% <= 3 milliseconds
+88.59% <= 4 milliseconds
+92.68% <= 5 milliseconds
+94.92% <= 6 milliseconds
+96.49% <= 7 milliseconds
+97.45% <= 8 milliseconds
+98.10% <= 9 milliseconds
+98.58% <= 10 milliseconds
+98.96% <= 11 milliseconds
+99.21% <= 12 milliseconds
+99.36% <= 13 milliseconds
+99.49% <= 14 milliseconds
+99.57% <= 15 milliseconds
+99.63% <= 16 milliseconds
+99.69% <= 17 milliseconds
+99.76% <= 18 milliseconds
+99.79% <= 19 milliseconds
+99.82% <= 20 milliseconds
+99.83% <= 21 milliseconds
+99.86% <= 22 milliseconds
+99.89% <= 23 milliseconds
+99.91% <= 24 milliseconds
+99.91% <= 25 milliseconds
+99.92% <= 26 milliseconds
+99.93% <= 27 milliseconds
+99.94% <= 28 milliseconds
+99.94% <= 29 milliseconds
+99.95% <= 30 milliseconds
+99.95% <= 31 milliseconds
+99.95% <= 32 milliseconds
+99.95% <= 33 milliseconds
+99.96% <= 34 milliseconds
+99.97% <= 35 milliseconds
+99.97% <= 36 milliseconds
+99.98% <= 37 milliseconds
+99.99% <= 42 milliseconds
+99.99% <= 43 milliseconds
+99.99% <= 44 milliseconds
+99.99% <= 47 milliseconds
+100.00% <= 48 milliseconds
+100.00% <= 58 milliseconds
+100.00% <= 58 milliseconds
+108541.28 requests per second
+
+

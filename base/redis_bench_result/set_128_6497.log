@@ -1,0 +1,75 @@
+2023-11-24 14:15:02
+SET: 0.00SET: 93354.59SET: 116015.95SET: 105074.47SET: 107752.50SET: 114198.09SET: 112974.05SET: 109289.22SET: 109048.85SET: 108764.60SET: 106127.38SET: 105051.41SET: 104037.17SET: 105679.44SET: 106126.35SET: 106848.04SET: 108864.55SET: 109070.80SET: 107100.09SET: 106366.77SET: 106267.48SET: 106466.21SET: 105391.55SET: 104520.02SET: 103609.37SET: 101977.05SET: 100062.54SET: 98918.54SET: 99207.52SET: 99750.41SET: 100520.86SET: 100166.13SET: 100710.10SET: 101875.55SET: 101024.98SET: 100851.77SET: 101849.12SET: 101683.12SET: 102411.42SET: 101963.80SET: 101086.78SET: 100268.58SET: 100473.20SET: 100376.98SET: 100060.50SET: 99974.13SET: 99466.59SET: 99298.11SET: 99068.18SET: 98152.95SET: 97119.44SET: 96541.55SET: 96080.35SET: 95807.41SET: 95683.38SET: 95143.16SET: 95627.85SET: 95146.83SET: 94819.70SET: 95712.66SET: 95145.85SET: 94893.02SET: 94739.20SET: 94391.00SET: 94054.62SET: 93756.50SET: 93371.46SET: 93302.59SET: 93356.75SET: 93123.88SET: 92706.69SET: 92155.09SET: 91769.48SET: 91513.21SET: 91076.72SET: 91192.10SET: 90987.28SET: 91323.59SET: 91599.90SET: 91818.48SET: 92075.59SET: 92225.56SET: 91833.48SET: 91591.18SET: 91294.74SET: 91374.91SET: 91842.12SET: 92294.04SET: 92384.38SET: 92023.61SET: 92016.45SET: 92031.31SET: 92659.29SET: 92694.00SET: 92641.60SET: 92701.25SET: 92633.61SET: 92557.50SET: 92807.93SET: 93263.09SET: 93311.27SET: 92937.48SET: 92727.78SET: 92883.32SET: 93014.77SET: 92749.97SET: 92900.62SET: 92990.14SET: 92945.94SET: 92833.94SET: 92456.18SET: 92724.39SET: 92562.73SET: 92665.98SET: 92849.55SET: 92675.90SET: 92540.80SET: 92625.20SET: 92762.27SET: 92676.90SET: 92579.46SET: 92350.98SET: 92388.32SET: 92357.19SET: 92325.02SET: 92451.46SET: 92402.16SET: 92740.98SET: 92692.04SET: 92773.84SET: 92698.34SET: 92691.09SET: 93089.99SET: 93302.93SET: 93545.17SET: 93978.48SET: 94464.45SET: 94769.93SET: 94900.24SET: 95292.65SET: 95580.02SET: 95935.40SET: 96963.02SET: 98017.33SET: 99400.83SET: 100959.34SET: 102821.70SET: 104759.63SET: 106525.31====== SET ======
+  4000024 requests completed in 37.27 seconds
+  32 parallel clients
+  128 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.09% <= 0.2 milliseconds
+2.18% <= 0.3 milliseconds
+5.91% <= 0.4 milliseconds
+10.28% <= 0.5 milliseconds
+15.95% <= 0.6 milliseconds
+22.74% <= 0.7 milliseconds
+29.22% <= 0.8 milliseconds
+34.72% <= 0.9 milliseconds
+39.31% <= 1.0 milliseconds
+43.36% <= 1.1 milliseconds
+47.11% <= 1.2 milliseconds
+50.53% <= 1.3 milliseconds
+53.59% <= 1.4 milliseconds
+56.27% <= 1.5 milliseconds
+58.75% <= 1.6 milliseconds
+61.09% <= 1.7 milliseconds
+63.26% <= 1.8 milliseconds
+65.30% <= 1.9 milliseconds
+67.20% <= 2 milliseconds
+80.55% <= 3 milliseconds
+88.07% <= 4 milliseconds
+92.46% <= 5 milliseconds
+94.94% <= 6 milliseconds
+96.48% <= 7 milliseconds
+97.46% <= 8 milliseconds
+98.04% <= 9 milliseconds
+98.48% <= 10 milliseconds
+98.77% <= 11 milliseconds
+99.06% <= 12 milliseconds
+99.22% <= 13 milliseconds
+99.33% <= 14 milliseconds
+99.44% <= 15 milliseconds
+99.51% <= 16 milliseconds
+99.55% <= 17 milliseconds
+99.62% <= 18 milliseconds
+99.69% <= 19 milliseconds
+99.73% <= 20 milliseconds
+99.77% <= 21 milliseconds
+99.81% <= 22 milliseconds
+99.84% <= 23 milliseconds
+99.86% <= 24 milliseconds
+99.87% <= 25 milliseconds
+99.91% <= 26 milliseconds
+99.91% <= 27 milliseconds
+99.92% <= 28 milliseconds
+99.93% <= 29 milliseconds
+99.93% <= 30 milliseconds
+99.93% <= 31 milliseconds
+99.94% <= 32 milliseconds
+99.95% <= 33 milliseconds
+99.96% <= 34 milliseconds
+99.97% <= 35 milliseconds
+99.97% <= 36 milliseconds
+99.97% <= 40 milliseconds
+99.98% <= 41 milliseconds
+99.98% <= 42 milliseconds
+99.99% <= 43 milliseconds
+99.99% <= 46 milliseconds
+99.99% <= 54 milliseconds
+100.00% <= 55 milliseconds
+100.00% <= 55 milliseconds
+107328.45 requests per second
+
+

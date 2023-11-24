@@ -1,0 +1,68 @@
+2023-11-24 14:18:14
+GET: -nanGET: 75904.00GET: 87441.12GET: 96308.92GET: 112079.84GET: 116019.17GET: 115414.12GET: 115153.45GET: 109160.26GET: 104780.84GET: 103894.65GET: 105893.59GET: 104018.56GET: 102744.19GET: 101657.77GET: 99839.84GET: 100028.85GET: 101194.10GET: 100129.09GET: 99889.40GET: 98412.41GET: 98406.37GET: 97117.42GET: 96681.32GET: 98314.91GET: 97472.04GET: 97863.03GET: 98620.63GET: 98652.25GET: 98104.98GET: 98021.26GET: 97851.92GET: 97399.58GET: 97619.12GET: 97725.47GET: 97628.97GET: 96879.55GET: 96685.20GET: 97040.71GET: 96839.91GET: 96926.54GET: 96775.65GET: 96754.74GET: 96625.88GET: 96473.14GET: 96011.34GET: 96674.41GET: 96495.21GET: 96085.01GET: 95771.05GET: 95142.20GET: 95462.84GET: 94732.72GET: 94553.38GET: 95199.52GET: 95706.45GET: 96353.16GET: 97550.04GET: 98343.77GET: 98810.09GET: 99274.76GET: 100468.64GET: 101050.41GET: 101958.80GET: 102608.61GET: 103158.15GET: 103722.49GET: 104210.15GET: 104914.03GET: 105822.00GET: 106575.33GET: 106482.22GET: 106683.48GET: 106779.14GET: 106956.30GET: 106643.87GET: 106854.09GET: 107111.94GET: 107328.36GET: 107516.34GET: 107865.55GET: 108327.15GET: 108571.54GET: 108702.48GET: 108873.99GET: 109201.34GET: 109525.43GET: 109746.95GET: 109961.88GET: 110404.58GET: 110554.41GET: 110720.20GET: 110232.92GET: 110173.38GET: 110237.14GET: 110116.05GET: 110010.46GET: 110136.01GET: 109993.98GET: 109762.24GET: 109550.32GET: 109371.09GET: 109394.88GET: 109470.59GET: 109282.48GET: 109509.77GET: 109611.52GET: 109838.65GET: 110037.40GET: 110216.15GET: 110631.56GET: 110733.14GET: 111072.85GET: 111544.74GET: 111881.73GET: 112635.02GET: 113029.68GET: 113740.21GET: 114175.34GET: 114856.24GET: 116094.17GET: 117303.82GET: 118507.30GET: 119730.42GET: 121362.26GET: 123230.05GET: 125006.29====== GET ======
+  4000000 requests completed in 31.74 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.30% <= 0.2 milliseconds
+5.60% <= 0.3 milliseconds
+11.94% <= 0.4 milliseconds
+18.99% <= 0.5 milliseconds
+26.32% <= 0.6 milliseconds
+33.21% <= 0.7 milliseconds
+38.73% <= 0.8 milliseconds
+43.10% <= 0.9 milliseconds
+46.88% <= 1.0 milliseconds
+50.32% <= 1.1 milliseconds
+53.39% <= 1.2 milliseconds
+56.25% <= 1.3 milliseconds
+58.97% <= 1.4 milliseconds
+61.48% <= 1.5 milliseconds
+63.87% <= 1.6 milliseconds
+66.05% <= 1.7 milliseconds
+68.14% <= 1.8 milliseconds
+70.07% <= 1.9 milliseconds
+71.89% <= 2 milliseconds
+84.78% <= 3 milliseconds
+91.52% <= 4 milliseconds
+95.12% <= 5 milliseconds
+97.02% <= 6 milliseconds
+98.12% <= 7 milliseconds
+98.73% <= 8 milliseconds
+99.15% <= 9 milliseconds
+99.39% <= 10 milliseconds
+99.57% <= 11 milliseconds
+99.68% <= 12 milliseconds
+99.75% <= 13 milliseconds
+99.82% <= 14 milliseconds
+99.86% <= 15 milliseconds
+99.87% <= 16 milliseconds
+99.90% <= 17 milliseconds
+99.92% <= 18 milliseconds
+99.93% <= 19 milliseconds
+99.94% <= 20 milliseconds
+99.95% <= 21 milliseconds
+99.95% <= 22 milliseconds
+99.95% <= 23 milliseconds
+99.95% <= 24 milliseconds
+99.96% <= 25 milliseconds
+99.96% <= 26 milliseconds
+99.96% <= 27 milliseconds
+99.98% <= 28 milliseconds
+99.98% <= 29 milliseconds
+99.98% <= 33 milliseconds
+99.98% <= 34 milliseconds
+99.99% <= 35 milliseconds
+99.99% <= 37 milliseconds
+99.99% <= 38 milliseconds
+99.99% <= 45 milliseconds
+100.00% <= 48 milliseconds
+100.00% <= 48 milliseconds
+126027.91 requests per second
+
+
