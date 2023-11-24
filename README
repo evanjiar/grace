@@ -1,0 +1,15 @@
+1.Redis测试
+压测redis在16B、32B、64B、128B、256B数据长度下的set、get性能，压测脚本为test_redis。
+压测结果有三份：
+  redis_bench_result：grace cpu压测结果
+  base/redis_bench_result: Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz，32物理核，64逻辑核压测结果
+  base/redis_bench_result: AMD EPYC 9654 96-Core Processor，192物理核，384逻辑核压测结果
+
+2.RocksDB测试
+a.自带benchmark工具测试，压测脚本为rocksdb_write.sh和rocksdb_rw.sh。
+b.YCSB压测，workload为workloads/workload_rocksdb。
+压测结果有两份：
+  rocksdb_bench_result：grace cpu下上述两种压测方法的压测结果，在一块SSD上测试
+  base/rocksdb_bench_result: Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz，32物理核，64逻辑核压测结果，在一块SSD上测试
+
+
