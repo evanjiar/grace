@@ -1,0 +1,40 @@
+2023-11-24 03:23:53
+SET: 0.00SET: 503011.97SET: 375073.88SET: 327147.81SET: 292971.00SET: 274462.03SET: 266377.06SET: 260445.45SET: 256891.56SET: 254784.55SET: 246093.56SET: 237900.41SET: 237152.95SET: 237932.95SET: 237635.62SET: 238637.52SET: 238678.67SET: 238090.31SET: 237700.58SET: 235072.39SET: 235038.80SET: 233699.61SET: 230286.03SET: 226865.98SET: 224387.81SET: 222933.00SET: 221838.55SET: 221930.41SET: 221931.17SET: 222235.22SET: 222710.92SET: 221104.61SET: 220351.36SET: 220691.62SET: 220346.69SET: 220056.67SET: 220248.78SET: 220477.20SET: 219731.48SET: 219611.25SET: 219620.16SET: 219751.91SET: 219694.59SET: 219735.92SET: 219841.16SET: 219595.91SET: 219631.81SET: 219371.50SET: 219293.30SET: 219409.55SET: 219274.84SET: 218018.97SET: 218018.30SET: 217781.06SET: 217972.59SET: 217622.69SET: 216577.50SET: 215594.25SET: 214551.12SET: 213467.44SET: 212707.23SET: 212131.89SET: 211139.62SET: 210117.92SET: 209430.06SET: 209123.61SET: 209184.14SET: 209279.62SET: 208640.77SET: 208490.08SET: 208659.48SET: 208676.33SET: 208482.55SET: 208302.39SET: 208253.78SET: 208258.50SET: 208103.14====== SET ======
+  4000024 requests completed in 19.20 seconds
+  16 parallel clients
+  128 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.64% <= 0.1 milliseconds
+16.67% <= 0.2 milliseconds
+35.53% <= 0.3 milliseconds
+51.23% <= 0.4 milliseconds
+63.59% <= 0.5 milliseconds
+72.37% <= 0.6 milliseconds
+78.98% <= 0.7 milliseconds
+83.76% <= 0.8 milliseconds
+87.23% <= 0.9 milliseconds
+89.76% <= 1.0 milliseconds
+91.58% <= 1.1 milliseconds
+93.02% <= 1.2 milliseconds
+94.15% <= 1.3 milliseconds
+95.07% <= 1.4 milliseconds
+95.80% <= 1.5 milliseconds
+96.42% <= 1.6 milliseconds
+96.92% <= 1.7 milliseconds
+97.32% <= 1.8 milliseconds
+97.66% <= 1.9 milliseconds
+97.93% <= 2 milliseconds
+99.42% <= 3 milliseconds
+99.84% <= 4 milliseconds
+99.92% <= 5 milliseconds
+99.97% <= 6 milliseconds
+99.99% <= 7 milliseconds
+100.00% <= 8 milliseconds
+100.00% <= 8 milliseconds
+208280.34 requests per second
+
+
