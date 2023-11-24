@@ -87,6 +87,7 @@ test() {
   sleep 10
 }
 
+mkdir -p log
 datasize=16
 test
 
