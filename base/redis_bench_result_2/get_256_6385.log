@@ -1,0 +1,38 @@
+2023-11-24 14:59:59
+GET: 0.00GET: 610326.75GET: 470978.06GET: 394002.66GET: 350977.00GET: 317122.28GET: 300770.16GET: 297224.44GET: 291794.12GET: 286287.00GET: 282824.47GET: 279438.75GET: 276641.12GET: 276360.50GET: 275265.34GET: 273586.78GET: 271940.03GET: 270142.56GET: 267787.59GET: 264978.31GET: 262891.44GET: 260949.92GET: 259219.78GET: 257542.69GET: 256118.66GET: 254779.08GET: 253397.33GET: 252322.92GET: 251240.69GET: 250258.45GET: 249354.48GET: 248185.78GET: 247078.11GET: 245071.27GET: 241475.42GET: 240206.58GET: 239217.95GET: 238674.45GET: 238137.66GET: 237379.83GET: 236538.30GET: 235946.16GET: 235363.17GET: 233959.83GET: 232858.03GET: 231808.03GET: 230866.28GET: 230246.42GET: 229662.39GET: 229208.62GET: 228653.34GET: 228143.67GET: 227620.38GET: 227207.97GET: 226870.09GET: 226539.84GET: 226223.69GET: 225975.86GET: 225845.27GET: 225656.73GET: 225446.75GET: 225141.89GET: 224730.17GET: 224502.75GET: 224277.94GET: 224191.47GET: 223961.70GET: 223480.92GET: 223069.34GET: 222652.52GET: 222260.86GET: 221895.56GET: 221559.95====== GET ======
+  4000096 requests completed in 18.06 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.03% <= 0.2 milliseconds
+2.22% <= 0.3 milliseconds
+4.40% <= 0.4 milliseconds
+12.96% <= 0.5 milliseconds
+54.47% <= 0.6 milliseconds
+91.94% <= 0.7 milliseconds
+97.68% <= 0.8 milliseconds
+98.26% <= 0.9 milliseconds
+98.57% <= 1.0 milliseconds
+99.34% <= 1.1 milliseconds
+99.58% <= 1.2 milliseconds
+99.67% <= 1.3 milliseconds
+99.74% <= 1.4 milliseconds
+99.82% <= 1.5 milliseconds
+99.86% <= 1.6 milliseconds
+99.90% <= 1.7 milliseconds
+99.92% <= 1.8 milliseconds
+99.93% <= 1.9 milliseconds
+99.95% <= 2 milliseconds
+99.97% <= 3 milliseconds
+99.98% <= 4 milliseconds
+99.99% <= 5 milliseconds
+100.00% <= 6 milliseconds
+100.00% <= 6 milliseconds
+221501.52 requests per second
+
+

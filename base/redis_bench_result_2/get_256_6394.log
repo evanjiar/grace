@@ -1,0 +1,38 @@
+2023-11-24 14:59:59
+GET: -nanGET: 472288.00GET: 361760.00GET: 317792.00GET: 288712.00GET: 266547.19GET: 252240.00GET: 242646.86GET: 246352.00GET: 250062.22GET: 252076.80GET: 248968.73GET: 240872.00GET: 233216.00GET: 226836.58GET: 220817.06GET: 215848.00GET: 212139.30GET: 212663.11GET: 214709.89GET: 216068.80GET: 217365.33GET: 217866.19GET: 218487.66GET: 219260.00GET: 220202.23GET: 221011.69GET: 221655.70GET: 222227.42GET: 222631.72GET: 222849.06GET: 223355.88GET: 223849.00GET: 224219.16GET: 224453.64GET: 224652.80GET: 224790.22GET: 224719.56GET: 224717.47GET: 224767.17GET: 224828.00GET: 224808.58GET: 224911.23GET: 225015.06GET: 225106.91GET: 225102.94GET: 225209.73GET: 225376.00GET: 225321.33GET: 225067.75GET: 224974.72GET: 225109.33GET: 225305.23GET: 225476.22GET: 225435.27GET: 225232.30GET: 225108.00GET: 224995.94GET: 225203.31GET: 225397.69GET: 225598.41GET: 225797.25GET: 225754.33GET: 225760.52GET: 225774.50GET: 225513.36GET: 225062.30GET: 224604.17GET: 224136.00GET: 223771.83GET: 223441.38GET: 223149.97====== GET ======
+  4000016 requests completed in 17.94 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.00% <= 0.2 milliseconds
+0.33% <= 0.3 milliseconds
+1.98% <= 0.4 milliseconds
+11.87% <= 0.5 milliseconds
+71.22% <= 0.6 milliseconds
+89.49% <= 0.7 milliseconds
+94.25% <= 0.8 milliseconds
+97.26% <= 0.9 milliseconds
+99.20% <= 1.0 milliseconds
+99.60% <= 1.1 milliseconds
+99.67% <= 1.2 milliseconds
+99.74% <= 1.3 milliseconds
+99.81% <= 1.4 milliseconds
+99.86% <= 1.5 milliseconds
+99.89% <= 1.6 milliseconds
+99.92% <= 1.7 milliseconds
+99.95% <= 1.8 milliseconds
+99.96% <= 1.9 milliseconds
+99.96% <= 2 milliseconds
+99.98% <= 3 milliseconds
+99.98% <= 4 milliseconds
+99.99% <= 5 milliseconds
+100.00% <= 6 milliseconds
+100.00% <= 6 milliseconds
+222916.62 requests per second
+
+

@@ -1,0 +1,62 @@
+2023-11-24 14:18:11
+GET: -nanGET: 210016.00GET: 203280.00GET: 206965.33GET: 201342.64GET: 195709.03GET: 189287.14GET: 179115.92GET: 171414.30GET: 166841.41GET: 163221.11GET: 159280.11GET: 153042.56GET: 149338.25GET: 147125.67GET: 145519.55GET: 143892.25GET: 142581.83GET: 141743.19GET: 142152.94GET: 141943.31GET: 142509.50GET: 142127.38GET: 142457.48GET: 141214.91GET: 141376.34GET: 141793.95GET: 142911.72GET: 144248.69GET: 144487.95GET: 144265.14GET: 144725.41GET: 143782.66GET: 144081.22GET: 143810.42GET: 145022.11GET: 145156.66GET: 145186.72GET: 145405.84GET: 145764.95GET: 145818.28GET: 145885.38GET: 146019.19GET: 145692.17GET: 145924.20GET: 146117.03GET: 146211.97GET: 146077.42GET: 146214.77GET: 145635.30GET: 145430.34GET: 145349.81GET: 145550.91GET: 145439.83GET: 145372.92GET: 145304.52GET: 145347.95GET: 145533.81GET: 145456.25GET: 144997.70GET: 145136.47GET: 144945.64GET: 145175.00GET: 145220.25GET: 144961.22GET: 144886.55GET: 144778.23GET: 144905.30GET: 144769.00GET: 144474.72GET: 143658.38GET: 143037.20GET: 142580.48GET: 141947.72GET: 141078.31GET: 140163.69GET: 139201.52GET: 138545.31GET: 138170.69GET: 137120.86GET: 136203.88GET: 135944.44GET: 135451.97GET: 134662.62GET: 134575.16GET: 134288.09GET: 134136.48GET: 134215.91GET: 133543.70GET: 133093.00GET: 132263.97GET: 131628.66GET: 131023.11GET: 130636.13GET: 130482.56GET: 130414.88GET: 130552.99GET: 130279.56GET: 129894.69GET: 129540.12GET: 129167.43GET: 128567.37GET: 128245.25GET: 128290.59GET: 128038.95GET: 127783.37GET: 127381.79GET: 127362.53GET: 126906.10GET: 126796.98GET: 126428.30GET: 125992.60GET: 125779.32GET: 125320.35GET: 124989.38GET: 124773.32GET: 124240.34GET: 123925.30GET: 123511.23GET: 123468.13GET: 123401.04GET: 123253.10GET: 122995.52GET: 122768.07GET: 122482.38GET: 122389.77GET: 122290.38GET: 121896.15GET: 121434.59GET: 121076.09GET: 121086.43GET: 120836.87====== GET ======
+  4000056 requests completed in 33.10 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.25% <= 0.2 milliseconds
+5.35% <= 0.3 milliseconds
+11.54% <= 0.4 milliseconds
+17.00% <= 0.5 milliseconds
+22.94% <= 0.6 milliseconds
+28.89% <= 0.7 milliseconds
+34.27% <= 0.8 milliseconds
+38.87% <= 0.9 milliseconds
+42.93% <= 1.0 milliseconds
+46.68% <= 1.1 milliseconds
+50.11% <= 1.2 milliseconds
+53.36% <= 1.3 milliseconds
+56.40% <= 1.4 milliseconds
+59.26% <= 1.5 milliseconds
+61.89% <= 1.6 milliseconds
+64.31% <= 1.7 milliseconds
+66.58% <= 1.8 milliseconds
+68.68% <= 1.9 milliseconds
+70.61% <= 2 milliseconds
+84.01% <= 3 milliseconds
+90.90% <= 4 milliseconds
+94.74% <= 5 milliseconds
+96.81% <= 6 milliseconds
+97.91% <= 7 milliseconds
+98.63% <= 8 milliseconds
+99.11% <= 9 milliseconds
+99.39% <= 10 milliseconds
+99.57% <= 11 milliseconds
+99.71% <= 12 milliseconds
+99.76% <= 13 milliseconds
+99.82% <= 14 milliseconds
+99.83% <= 15 milliseconds
+99.86% <= 16 milliseconds
+99.89% <= 17 milliseconds
+99.90% <= 18 milliseconds
+99.91% <= 19 milliseconds
+99.93% <= 20 milliseconds
+99.94% <= 21 milliseconds
+99.96% <= 22 milliseconds
+99.97% <= 23 milliseconds
+99.97% <= 24 milliseconds
+99.98% <= 25 milliseconds
+99.98% <= 27 milliseconds
+99.98% <= 29 milliseconds
+99.99% <= 30 milliseconds
+99.99% <= 35 milliseconds
+100.00% <= 36 milliseconds
+100.00% <= 36 milliseconds
+120829.36 requests per second
+
+

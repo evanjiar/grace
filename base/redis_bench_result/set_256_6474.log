@@ -1,0 +1,80 @@
+2023-11-24 14:17:05
+SET: -nanSET: 97088.00SET: 94080.00SET: 95317.34SET: 93064.00SET: 88147.20SET: 85992.02SET: 88059.36SET: 96895.10SET: 97569.46SET: 99407.11SET: 98836.18SET: 97020.31SET: 96233.63SET: 95502.14SET: 93780.98SET: 94583.07SET: 91673.65SET: 91379.09SET: 89965.92SET: 88564.47SET: 89369.12SET: 88069.78SET: 87794.20SET: 86348.83SET: 85193.03SET: 84795.33SET: 83404.71SET: 83688.71SET: 84199.61SET: 83208.95SET: 81869.48SET: 81697.94SET: 80412.84SET: 79920.98SET: 78818.50SET: 78278.29SET: 78397.41SET: 78049.02SET: 77713.58SET: 77552.67SET: 76545.24SET: 76029.70SET: 75805.88SET: 75554.43SET: 75561.48SET: 76052.15SET: 75484.86SET: 75621.52SET: 75807.13SET: 75711.20SET: 75741.95SET: 75236.41SET: 75287.02SET: 74647.52SET: 74474.38SET: 74726.64SET: 76075.47SET: 76410.01SET: 76452.94SET: 76156.46SET: 75464.90SET: 75450.83SET: 75359.02SET: 75338.54SET: 75006.21SET: 74543.89SET: 74308.29SET: 73938.02SET: 73561.34SET: 73368.14SET: 73553.78SET: 73657.93SET: 73832.14SET: 74122.39SET: 74418.98SET: 74438.50SET: 74822.12SET: 75062.67SET: 74758.41SET: 74641.62SET: 74814.31SET: 74540.97SET: 74399.42SET: 74318.99SET: 74293.98SET: 74484.84SET: 74444.55SET: 74553.41SET: 74765.11SET: 74696.75SET: 74799.26SET: 74779.98SET: 74845.51SET: 74550.71SET: 74278.07SET: 74097.55SET: 74406.26SET: 74515.45SET: 74596.29SET: 75000.88SET: 75201.27SET: 75508.34SET: 75546.31SET: 75382.25SET: 75319.02SET: 74952.62SET: 74662.48SET: 74450.70SET: 74419.76SET: 74248.20SET: 74178.23SET: 74174.55SET: 74056.96SET: 74066.98SET: 73944.52SET: 73943.20SET: 73776.72SET: 73472.80SET: 73211.48SET: 73059.55SET: 72991.16SET: 73016.82SET: 72991.43SET: 73068.71SET: 73236.74SET: 73106.28SET: 73044.52SET: 72871.84SET: 72821.02SET: 72739.04SET: 72638.56SET: 72423.95SET: 72306.69SET: 72256.96SET: 72293.16SET: 72370.01SET: 72577.54SET: 72401.91SET: 72254.07SET: 72155.32SET: 72200.65SET: 72055.32SET: 71851.51SET: 71692.20SET: 71590.16SET: 71643.92SET: 71459.73SET: 71626.06SET: 71676.80SET: 71597.83SET: 71629.25SET: 71584.42SET: 71357.32SET: 71230.42SET: 71251.45SET: 71301.09SET: 71240.64SET: 71178.94SET: 71246.16SET: 71516.74SET: 71587.19SET: 71623.84SET: 71565.22SET: 71554.62SET: 71625.26SET: 71574.41SET: 71374.69SET: 71233.74SET: 71109.39SET: 70969.59SET: 70822.46SET: 70758.92SET: 70673.04SET: 70563.18SET: 70556.77SET: 70670.57SET: 70781.28SET: 70880.88SET: 70972.23SET: 71061.51SET: 71182.45SET: 71286.09SET: 71226.97SET: 71245.91SET: 71710.29SET: 72377.63SET: 73151.11SET: 73508.42SET: 73737.91SET: 74083.52SET: 74364.46SET: 74566.95SET: 74724.65SET: 75059.71SET: 75227.36SET: 75322.73SET: 75634.42SET: 75966.36SET: 76046.95SET: 76198.30SET: 76831.79SET: 77023.78SET: 77255.12SET: 77495.47SET: 77729.12====== SET ======
+  4000024 requests completed in 51.42 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.02% <= 0.2 milliseconds
+0.89% <= 0.3 milliseconds
+2.24% <= 0.4 milliseconds
+3.84% <= 0.5 milliseconds
+6.84% <= 0.6 milliseconds
+12.11% <= 0.7 milliseconds
+18.65% <= 0.8 milliseconds
+24.85% <= 0.9 milliseconds
+31.10% <= 1.0 milliseconds
+36.33% <= 1.1 milliseconds
+40.11% <= 1.2 milliseconds
+43.02% <= 1.3 milliseconds
+45.84% <= 1.4 milliseconds
+48.65% <= 1.5 milliseconds
+51.32% <= 1.6 milliseconds
+53.47% <= 1.7 milliseconds
+55.13% <= 1.8 milliseconds
+56.54% <= 1.9 milliseconds
+57.77% <= 2 milliseconds
+68.45% <= 3 milliseconds
+76.78% <= 4 milliseconds
+82.46% <= 5 milliseconds
+86.52% <= 6 milliseconds
+89.43% <= 7 milliseconds
+91.35% <= 8 milliseconds
+92.70% <= 9 milliseconds
+93.87% <= 10 milliseconds
+94.86% <= 11 milliseconds
+95.70% <= 12 milliseconds
+96.37% <= 13 milliseconds
+96.83% <= 14 milliseconds
+97.35% <= 15 milliseconds
+98.06% <= 16 milliseconds
+98.37% <= 17 milliseconds
+98.60% <= 18 milliseconds
+98.82% <= 19 milliseconds
+99.11% <= 20 milliseconds
+99.30% <= 21 milliseconds
+99.42% <= 22 milliseconds
+99.53% <= 23 milliseconds
+99.61% <= 24 milliseconds
+99.69% <= 25 milliseconds
+99.75% <= 26 milliseconds
+99.78% <= 27 milliseconds
+99.80% <= 28 milliseconds
+99.84% <= 29 milliseconds
+99.88% <= 30 milliseconds
+99.91% <= 31 milliseconds
+99.93% <= 32 milliseconds
+99.93% <= 34 milliseconds
+99.94% <= 35 milliseconds
+99.95% <= 36 milliseconds
+99.95% <= 37 milliseconds
+99.96% <= 38 milliseconds
+99.97% <= 39 milliseconds
+99.97% <= 41 milliseconds
+99.97% <= 42 milliseconds
+99.97% <= 43 milliseconds
+99.98% <= 44 milliseconds
+99.98% <= 45 milliseconds
+99.98% <= 46 milliseconds
+99.98% <= 52 milliseconds
+99.99% <= 53 milliseconds
+99.99% <= 54 milliseconds
+99.99% <= 55 milliseconds
+100.00% <= 55 milliseconds
+77795.75 requests per second
+
+

@@ -1,0 +1,62 @@
+2023-11-24 14:18:11
+GET: -nanGET: 204576.00GET: 184079.20GET: 162899.47GET: 141630.22GET: 136554.14GET: 139691.89GET: 136013.67GET: 132334.33GET: 127497.78GET: 121289.80GET: 116023.17GET: 115803.45GET: 113694.66GET: 111480.79GET: 109827.27GET: 106280.59GET: 102828.99GET: 102924.48GET: 101543.76GET: 101557.73GET: 103062.49GET: 102466.05GET: 101820.20GET: 101687.53GET: 100796.43GET: 99895.17GET: 98638.34GET: 98943.66GET: 99351.47GET: 98143.18GET: 97627.98GET: 96524.84GET: 95219.11GET: 93873.78GET: 93137.07GET: 92046.85GET: 90762.12GET: 90522.34GET: 91220.23GET: 91156.73GET: 90543.77GET: 89956.81GET: 90394.60GET: 91403.16GET: 91941.67GET: 91587.06GET: 91624.61GET: 91786.85GET: 91251.83GET: 90949.65GET: 90447.67GET: 90816.41GET: 90463.71GET: 90099.30GET: 89675.23GET: 89659.68GET: 90064.64GET: 90171.79GET: 89867.02GET: 89991.52GET: 90577.95GET: 91366.37GET: 91847.38GET: 91661.20GET: 91853.52GET: 91814.23GET: 92464.15GET: 92865.29GET: 92615.55GET: 92876.63GET: 92849.53GET: 93357.67GET: 93517.21GET: 93168.59GET: 93394.93GET: 93238.32GET: 93460.47GET: 93527.59GET: 93375.53GET: 93309.45GET: 93365.31GET: 93244.40GET: 93198.77GET: 93577.41GET: 93524.94GET: 93218.89GET: 93006.87GET: 92736.08GET: 92480.43GET: 92238.52GET: 92361.50GET: 92076.16GET: 92431.84GET: 92643.45GET: 92559.50GET: 92324.46GET: 92259.73GET: 92625.01GET: 92420.03GET: 92545.45GET: 92637.66GET: 92698.88GET: 92830.19GET: 92541.06GET: 92618.76GET: 92681.77GET: 92556.75GET: 92491.73GET: 92583.99GET: 92551.77GET: 92318.62GET: 92282.79GET: 92265.63GET: 92672.81GET: 92706.41GET: 92559.50GET: 92402.90GET: 92395.72GET: 92612.09GET: 92515.93GET: 92612.81GET: 92895.91GET: 92744.82GET: 92826.05GET: 92738.91GET: 92762.52GET: 92753.28GET: 92766.09GET: 92888.49GET: 92801.23GET: 92861.84GET: 92784.16GET: 92736.85GET: 92654.32GET: 92714.65GET: 92966.87GET: 93539.73GET: 94185.60GET: 94706.90GET: 94895.48GET: 95156.66GET: 95442.02GET: 95905.49GET: 96463.64GET: 98212.38GET: 100360.73GET: 102671.19GET: 104936.99====== GET ======
+  4000000 requests completed in 37.39 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.12% <= 0.2 milliseconds
+4.05% <= 0.3 milliseconds
+12.61% <= 0.4 milliseconds
+20.27% <= 0.5 milliseconds
+26.95% <= 0.6 milliseconds
+32.10% <= 0.7 milliseconds
+36.16% <= 0.8 milliseconds
+40.03% <= 0.9 milliseconds
+43.52% <= 1.0 milliseconds
+46.68% <= 1.1 milliseconds
+49.56% <= 1.2 milliseconds
+52.18% <= 1.3 milliseconds
+54.58% <= 1.4 milliseconds
+56.88% <= 1.5 milliseconds
+59.10% <= 1.6 milliseconds
+61.22% <= 1.7 milliseconds
+63.24% <= 1.8 milliseconds
+65.28% <= 1.9 milliseconds
+67.15% <= 2 milliseconds
+80.89% <= 3 milliseconds
+88.85% <= 4 milliseconds
+93.20% <= 5 milliseconds
+95.77% <= 6 milliseconds
+97.27% <= 7 milliseconds
+98.21% <= 8 milliseconds
+98.75% <= 9 milliseconds
+99.15% <= 10 milliseconds
+99.37% <= 11 milliseconds
+99.53% <= 12 milliseconds
+99.65% <= 13 milliseconds
+99.74% <= 14 milliseconds
+99.78% <= 15 milliseconds
+99.85% <= 16 milliseconds
+99.89% <= 17 milliseconds
+99.91% <= 18 milliseconds
+99.95% <= 19 milliseconds
+99.96% <= 20 milliseconds
+99.96% <= 21 milliseconds
+99.97% <= 22 milliseconds
+99.97% <= 28 milliseconds
+99.98% <= 30 milliseconds
+99.98% <= 31 milliseconds
+99.98% <= 33 milliseconds
+99.98% <= 34 milliseconds
+99.99% <= 35 milliseconds
+99.99% <= 38 milliseconds
+99.99% <= 40 milliseconds
+100.00% <= 40 milliseconds
+106977.62 requests per second
+
+

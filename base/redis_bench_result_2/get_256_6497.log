@@ -1,0 +1,37 @@
+2023-11-24 14:59:59
+GET: 0.00GET: 230502.00GET: 225501.00GET: 212644.48GET: 202341.66GET: 196476.41GET: 195992.00GET: 194517.41GET: 193443.28GET: 198937.38GET: 202968.42GET: 206034.17GET: 206893.70GET: 205305.45GET: 203918.89GET: 204291.12GET: 206114.47GET: 207610.45GET: 209165.97GET: 210487.06GET: 211535.30GET: 212451.72GET: 212672.61GET: 212785.25GET: 212881.86GET: 212794.11GET: 212127.38GET: 211379.66GET: 211532.06GET: 211032.55GET: 210631.83GET: 210387.00GET: 211173.20GET: 211968.98GET: 212636.09GET: 212652.66GET: 212641.64GET: 212977.95GET: 213575.25GET: 214041.02GET: 214484.31GET: 214827.16GET: 214695.11GET: 214616.81GET: 214536.27GET: 214361.19GET: 214267.44GET: 214042.20GET: 214728.88GET: 215506.38GET: 215372.27GET: 215335.64GET: 215335.48GET: 215193.48GET: 215100.58GET: 214954.62GET: 214781.31GET: 214603.98GET: 214794.66GET: 214980.48GET: 215143.58GET: 215437.19GET: 215721.84GET: 216060.95GET: 216260.95GET: 216227.41GET: 216123.61GET: 216100.28GET: 215922.36GET: 215735.67GET: 215499.02GET: 215472.28GET: 215726.25GET: 216123.59====== GET ======
+  4000056 requests completed in 18.47 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.2 milliseconds
+0.00% <= 0.3 milliseconds
+0.06% <= 0.4 milliseconds
+3.54% <= 0.5 milliseconds
+58.74% <= 0.6 milliseconds
+93.44% <= 0.7 milliseconds
+99.06% <= 0.8 milliseconds
+99.40% <= 0.9 milliseconds
+99.44% <= 1.0 milliseconds
+99.49% <= 1.1 milliseconds
+99.55% <= 1.2 milliseconds
+99.62% <= 1.3 milliseconds
+99.70% <= 1.4 milliseconds
+99.76% <= 1.5 milliseconds
+99.83% <= 1.6 milliseconds
+99.87% <= 1.7 milliseconds
+99.90% <= 1.8 milliseconds
+99.91% <= 1.9 milliseconds
+99.91% <= 2 milliseconds
+99.95% <= 3 milliseconds
+99.97% <= 4 milliseconds
+99.98% <= 5 milliseconds
+99.99% <= 6 milliseconds
+100.00% <= 6 milliseconds
+216570.45 requests per second
+
+

@@ -1,9 +1,9 @@
 #!/bin/bash
 
 total=128
-num=4000000
+num=20000000
 threadnum=32
-datasize=1024
+datasize=16
 
 redis_start() {
   count=0
@@ -60,4 +60,46 @@ get_test() {
   redis_get
 }
 
-get_test
+test() {
+  set_test
+  sleep 1
+  while [ 1 ]
+  do
+    bench_num=`ps aux | grep redis-benchmark | wc -l`
+    if [ $bench_num -eq 1 ]; then
+      break
+    fi
+    sleep 2
+    echo "wait set"
+  done
+  sleep 10
+  get_test
+  sleep 1
+  while [ 1 ]
+  do
+    bench_num=`ps aux | grep redis-benchmark | wc -l`
+    if [ $bench_num -eq 1 ]; then
+      break
+    fi
+    sleep 2
+    echo "wait get"
+  done
+  sleep 10
+}
+
+datasize=16
+test
+
+datasize=32
+test
+
+datasize=64
+test
+
+datasize=128
+num=4000000
+test
+
+datasize=256
+num=4000000
+test

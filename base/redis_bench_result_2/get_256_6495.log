@@ -1,0 +1,38 @@
+2023-11-24 14:59:59
+GET: -nanGET: 290688.00GET: 278720.00GET: 250560.00GET: 232840.00GET: 221414.41GET: 215962.67GET: 212941.72GET: 207960.00GET: 202520.89GET: 197004.80GET: 192322.91GET: 190677.33GET: 189479.39GET: 188452.58GET: 187861.33GET: 189186.00GET: 190012.23GET: 191041.78GET: 192067.38GET: 193097.59GET: 194329.91GET: 195534.55GET: 196730.44GET: 197945.33GET: 199001.59GET: 199728.00GET: 200545.19GET: 201450.28GET: 202579.86GET: 203667.20GET: 204565.67GET: 205919.00GET: 207276.61GET: 208544.00GET: 209502.17GET: 210346.67GET: 211157.62GET: 211924.20GET: 212527.59GET: 213083.20GET: 213471.22GET: 213586.28GET: 213701.95GET: 213906.91GET: 214095.64GET: 214302.61GET: 214523.23GET: 214892.67GET: 215072.00GET: 215384.31GET: 215501.17GET: 215968.00GET: 216065.20GET: 215905.78GET: 215929.02GET: 216076.58GET: 216198.17GET: 216116.41GET: 216160.00GET: 216058.14GET: 216119.08GET: 216133.67GET: 216294.61GET: 216505.50GET: 216667.08GET: 216812.61GET: 216835.83GET: 216735.06GET: 216707.25GET: 216655.55GET: 216653.52GET: 216725.33GET: 216928.88====== GET ======
+  4000000 requests completed in 18.42 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.2 milliseconds
+0.00% <= 0.3 milliseconds
+0.16% <= 0.4 milliseconds
+5.69% <= 0.5 milliseconds
+64.08% <= 0.6 milliseconds
+90.05% <= 0.7 milliseconds
+96.54% <= 0.8 milliseconds
+98.77% <= 0.9 milliseconds
+99.46% <= 1.0 milliseconds
+99.51% <= 1.1 milliseconds
+99.58% <= 1.2 milliseconds
+99.66% <= 1.3 milliseconds
+99.75% <= 1.4 milliseconds
+99.79% <= 1.5 milliseconds
+99.83% <= 1.6 milliseconds
+99.86% <= 1.7 milliseconds
+99.88% <= 1.8 milliseconds
+99.90% <= 1.9 milliseconds
+99.91% <= 2 milliseconds
+99.95% <= 3 milliseconds
+99.96% <= 4 milliseconds
+99.97% <= 5 milliseconds
+99.98% <= 6 milliseconds
+100.00% <= 7 milliseconds
+100.00% <= 7 milliseconds
+217167.05 requests per second
+
+

@@ -1,0 +1,36 @@
+2023-11-24 14:59:59
+GET: 0.00GET: 242804.80GET: 236487.03GET: 226663.12GET: 211932.06GET: 202027.17GET: 195016.66GET: 191433.47GET: 188577.72GET: 184675.27GET: 180766.09GET: 176476.92GET: 172747.75GET: 177176.25GET: 181018.00GET: 184686.75GET: 187299.17GET: 189625.03GET: 190553.22GET: 188369.61GET: 186289.14GET: 184393.08GET: 182826.39GET: 183319.77GET: 184454.59GET: 185437.22GET: 186138.75GET: 186691.16GET: 187146.98GET: 187355.12GET: 187992.00GET: 188625.98GET: 189253.33GET: 190280.92GET: 191075.86GET: 191660.83GET: 192350.17GET: 192936.53GET: 193606.56GET: 194192.17GET: 194627.73GET: 195109.94GET: 195679.64GET: 196351.59GET: 197072.98GET: 197916.62GET: 198549.12GET: 198922.41GET: 199469.42GET: 200011.75GET: 200688.53GET: 201385.20GET: 202034.16GET: 202549.36GET: 203013.48GET: 203247.23GET: 203426.94GET: 203655.91GET: 204273.06GET: 204947.94GET: 205574.19GET: 206061.38GET: 206469.36GET: 206760.28GET: 207076.61GET: 207408.31GET: 207638.34GET: 207812.31GET: 208042.81GET: 208260.59GET: 208479.94GET: 208692.64GET: 208900.33GET: 209397.31GET: 210104.84GET: 210841.28====== GET ======
+  4000064 requests completed in 18.92 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.3 milliseconds
+0.04% <= 0.4 milliseconds
+5.86% <= 0.5 milliseconds
+61.40% <= 0.6 milliseconds
+85.87% <= 0.7 milliseconds
+90.95% <= 0.8 milliseconds
+96.12% <= 0.9 milliseconds
+98.85% <= 1.0 milliseconds
+99.50% <= 1.1 milliseconds
+99.57% <= 1.2 milliseconds
+99.65% <= 1.3 milliseconds
+99.73% <= 1.4 milliseconds
+99.79% <= 1.5 milliseconds
+99.85% <= 1.6 milliseconds
+99.88% <= 1.7 milliseconds
+99.90% <= 1.8 milliseconds
+99.92% <= 1.9 milliseconds
+99.93% <= 2 milliseconds
+99.96% <= 3 milliseconds
+99.97% <= 4 milliseconds
+99.98% <= 5 milliseconds
+100.00% <= 6 milliseconds
+100.00% <= 6 milliseconds
+211442.23 requests per second
+
+

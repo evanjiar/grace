@@ -1,0 +1,38 @@
+2023-11-24 14:58:46
+GET: 0.00GET: 363282.88GET: 319680.66GET: 289874.84GET: 268507.47GET: 253026.38GET: 239813.59GET: 227347.03GET: 217022.97GET: 208142.09GET: 200143.88GET: 192924.08GET: 186292.95GET: 180786.73GET: 176242.02GET: 172453.92GET: 169114.88GET: 166211.56GET: 164337.47GET: 162578.03GET: 160247.80GET: 158116.48GET: 157366.28GET: 156226.62GET: 154962.02GET: 153724.33GET: 153123.00GET: 153512.58GET: 155908.62GET: 158088.78GET: 160111.94GET: 162390.50GET: 164312.84GET: 165569.19GET: 166256.83GET: 166922.56GET: 168014.22GET: 169113.47GET: 170352.70GET: 169701.88GET: 169051.58GET: 168601.53GET: 167878.91GET: 168331.05GET: 169095.61GET: 169784.27GET: 170247.58GET: 169549.09GET: 169236.92GET: 169061.53GET: 168815.11GET: 168743.92GET: 168689.02GET: 169408.78GET: 170101.91GET: 170911.16GET: 171709.23GET: 172442.27GET: 173105.36GET: 173728.08GET: 174367.91GET: 174994.62GET: 175606.81GET: 176214.81GET: 176716.83GET: 177197.00GET: 177647.12GET: 178082.73GET: 178596.42GET: 179007.59GET: 179501.64GET: 180057.45GET: 180699.14GET: 181366.20GET: 182023.03GET: 182914.86GET: 183933.92GET: 185071.52GET: 186366.17GET: 187772.22GET: 189588.61GET: 191923.78GET: 194713.11====== GET ======
+  4000016 requests completed in 20.52 seconds
+  32 parallel clients
+  128 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.1 milliseconds
+0.00% <= 0.2 milliseconds
+1.06% <= 0.3 milliseconds
+7.25% <= 0.4 milliseconds
+17.97% <= 0.5 milliseconds
+44.41% <= 0.6 milliseconds
+69.56% <= 0.7 milliseconds
+76.84% <= 0.8 milliseconds
+83.14% <= 0.9 milliseconds
+90.15% <= 1.0 milliseconds
+96.18% <= 1.1 milliseconds
+99.41% <= 1.2 milliseconds
+99.59% <= 1.3 milliseconds
+99.69% <= 1.4 milliseconds
+99.77% <= 1.5 milliseconds
+99.84% <= 1.6 milliseconds
+99.89% <= 1.7 milliseconds
+99.92% <= 1.8 milliseconds
+99.93% <= 1.9 milliseconds
+99.94% <= 2 milliseconds
+99.99% <= 3 milliseconds
+99.99% <= 4 milliseconds
+100.00% <= 5 milliseconds
+100.00% <= 6 milliseconds
+100.00% <= 6 milliseconds
+194923.06 requests per second
+
+

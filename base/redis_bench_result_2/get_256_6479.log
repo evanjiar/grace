@@ -1,0 +1,36 @@
+2023-11-24 14:59:59
+GET: 0.00GET: 195824.72GET: 190930.14GET: 179153.12GET: 171324.67GET: 166004.80GET: 162169.22GET: 158999.42GET: 156605.70GET: 153940.47GET: 151424.23GET: 149036.72GET: 147052.31GET: 144976.94GET: 143202.52GET: 141434.28GET: 144385.91GET: 149668.31GET: 154155.97GET: 158306.05GET: 162148.38GET: 165541.05GET: 168381.03GET: 170851.69GET: 173191.14GET: 175203.97GET: 177081.69GET: 178867.72GET: 178584.78GET: 178849.81GET: 179656.05GET: 180622.89GET: 180438.44GET: 179827.89GET: 180827.66GET: 181774.88GET: 182711.25GET: 183742.30GET: 184742.66GET: 185643.31GET: 186479.75GET: 187247.28GET: 187892.95GET: 188352.33GET: 188843.19GET: 189337.83GET: 189682.98GET: 190234.02GET: 190982.08GET: 191578.16GET: 191889.28GET: 192276.67GET: 192744.55GET: 193268.42GET: 193556.03GET: 193944.88GET: 194346.69GET: 194709.70GET: 195113.70GET: 195437.33GET: 195757.61GET: 196152.91GET: 196542.16GET: 196969.84GET: 197351.17GET: 197629.20GET: 197936.12GET: 198142.69GET: 198321.05GET: 198491.92GET: 198678.94GET: 198929.19GET: 199354.70GET: 199854.48GET: 200351.12GET: 200938.62GET: 202212.94GET: 203608.75====== GET ======
+  4000088 requests completed in 19.49 seconds
+  32 parallel clients
+  256 bytes payload
+  keep alive: 1
+  host configuration "save": 
+  host configuration "appendonly": no
+  multi-thread: no
+
+0.00% <= 0.2 milliseconds
+0.00% <= 0.3 milliseconds
+1.57% <= 0.4 milliseconds
+6.82% <= 0.5 milliseconds
+54.57% <= 0.6 milliseconds
+84.29% <= 0.7 milliseconds
+87.32% <= 0.8 milliseconds
+91.27% <= 0.9 milliseconds
+95.66% <= 1.0 milliseconds
+98.39% <= 1.1 milliseconds
+99.39% <= 1.2 milliseconds
+99.68% <= 1.3 milliseconds
+99.74% <= 1.4 milliseconds
+99.81% <= 1.5 milliseconds
+99.88% <= 1.6 milliseconds
+99.92% <= 1.7 milliseconds
+99.94% <= 1.8 milliseconds
+99.95% <= 1.9 milliseconds
+99.95% <= 2 milliseconds
+99.98% <= 4 milliseconds
+99.99% <= 5 milliseconds
+100.00% <= 6 milliseconds
+100.00% <= 6 milliseconds
+205269.56 requests per second
+
+
